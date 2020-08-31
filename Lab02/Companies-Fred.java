@@ -49,7 +49,6 @@ public class Companies {
 		// scanning employees
 		for (int index = 0; index < M; index++) {
 			Company curr = new Company(index);
-			curr.index = index;
 			int numEmployees = sc.nextInt();
 			for (int i = 0; i < numEmployees; i++) {
 				curr.addEmployee(sc.nextInt());
