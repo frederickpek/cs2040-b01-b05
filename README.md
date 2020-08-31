@@ -8,7 +8,7 @@ Solutions labelled "-Fred" were written by myself.
 Solution styles are good to follow. Please by mindful that modularity, appropriate variable naming, comments such as pre/post conditions are not always present.
 
 ## Recorded Labs
-Lab02 -
+Lab02 - https://youtu.be/nEqq0PrldrI
 
 Lab03 - 
 
