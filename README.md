@@ -10,7 +10,7 @@ Solution styles are good to follow. Please by mindful that modularity, appropria
 ## Recorded Labs
 Lab02 - https://youtu.be/nEqq0PrldrI
 
-Lab03 - 
+Lab03 - https://youtu.be/QouXXyVf5Hs
 
 lab04 - 
 
