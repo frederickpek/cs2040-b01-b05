@@ -7,6 +7,8 @@ Solutions labelled "-Fred" were written by myself.
 
 Solution styles are good to follow. Please by mindful that modularity, appropriate variable naming, comments such as pre/post conditions are not always present.
 
+Lab Slides - https://drive.google.com/drive/folders/180cVVlZyMGkxIpJxS1TfK9gz6yhR-Vas?usp=sharing
+
 ## Recorded Labs
 Lab02 - https://youtu.be/nEqq0PrldrI
 
