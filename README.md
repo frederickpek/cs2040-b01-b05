@@ -7,7 +7,9 @@ Solutions labelled "-Fred" were written by myself.
 
 Solution styles are good to follow. Please by mindful that modularity, appropriate variable naming, comments such as pre/post conditions are not always present.
 
-Graded Lab Criteria. Please view Lab04/Jobs-Fred(Graded Lab Format).java for example on expectations.
+Graded Lab Criteria. Please view [Lab04/Jobs-Fred(Graded Lab Format).java](https://github.com/frederickpek/cs2040-b01/blob/master/Lab04/Jobs-Fred(Graded%20Lab%20Format).java) for example on expectations.
+
+
 
 |Criteria| Description |
 |:---|:---|
