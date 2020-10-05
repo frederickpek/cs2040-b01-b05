@@ -30,7 +30,7 @@ lab04 - https://youtu.be/ln6E9rv4MB4
 
 lab05 - https://youtu.be/WRNnAbeZQ24
 
-lab06 - 
+lab06 - https://youtu.be/CARa84ERlHM
 
 lab07 - 
 
