@@ -32,7 +32,7 @@ lab05 - https://youtu.be/WRNnAbeZQ24
 
 lab06 - https://youtu.be/CARa84ERlHM
 
-lab07 - 
+lab07 - https://youtu.be/gQXM06Isuw8
 
 lab08 - 
 
