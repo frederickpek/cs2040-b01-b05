@@ -14,12 +14,11 @@ Graded Lab Criteria. Please view [Lab04/Jobs-Fred(Graded Lab Format).java](https
 |Criteria| Description |
 |:---|:---|
 |Modularity|Atleast 1 helper method to abstract the logic/functionality|
-|PrePost Conditions|Atleast 1 pre & post condition for all your helper methods|
+|PrePost Conditions|Pre & post condition for atleast one of your helper methods|
 |Meaningful Comments|Describe code chunks, do not explain each line|
 |Meaningful Identifiers| Do not name variables "n", "arr", give meaningful names|
 |Indentation |Alignment + make sure your tabs are not actually spaces|
 
-Lab Slides - https://drive.google.com/drive/folders/180cVVlZyMGkxIpJxS1TfK9gz6yhR-Vas?usp=sharing
 
 ## Recorded Labs
 Lab02 - https://youtu.be/nEqq0PrldrI
