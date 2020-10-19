@@ -20,7 +20,7 @@ Graded Lab Criteria. Please view [Lab04/Jobs-Fred(Graded Lab Format).java](https
 |Indentation |Alignment + make sure your tabs are not actually spaces|
 
 
-## Recorded Labs
+## Recorded Labs (b01)
 Lab02 - https://youtu.be/nEqq0PrldrI
 
 Lab03 - https://youtu.be/QouXXyVf5Hs
@@ -33,7 +33,7 @@ lab06 - https://youtu.be/CARa84ERlHM
 
 lab07 - https://youtu.be/gQXM06Isuw8
 
-lab08 - 
+lab08 - https://youtu.be/NUc-QrjAuMw
 
 lab09 - 
 
