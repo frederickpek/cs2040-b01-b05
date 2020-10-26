@@ -35,7 +35,7 @@ lab07 - https://youtu.be/gQXM06Isuw8
 
 lab08 - https://youtu.be/NUc-QrjAuMw
 
-lab09 - https://youtu.be/NFpiZC-2VO0
+lab09 - https://youtu.be/NFpiZC-2VO0, Retransmission Re-recording - https://youtu.be/I4IP7slUtwM
 
 lab10 - 
 
