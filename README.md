@@ -37,7 +37,7 @@ lab08 - https://youtu.be/NUc-QrjAuMw
 
 lab09 - https://youtu.be/NFpiZC-2VO0, Retransmission Re-recording - https://youtu.be/I4IP7slUtwM
 
-lab10 - 
+lab10 - https://youtu.be/HPEtbvxWAa8, VAQuiz on SSSP & MST - coming soon
 
 lab11 - 
 
