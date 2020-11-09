@@ -7,14 +7,14 @@ Solutions labelled "-Fred" were written by myself.
 
 Solution styles are good to follow. Please by mindful that modularity, appropriate variable naming, comments such as pre/post conditions are not always present.
 
-Graded Lab Criteria. Please view [Lab04/Jobs-Fred(Graded Lab Format).java](https://github.com/frederickpek/cs2040-b01/blob/master/Lab04/Jobs-Fred(Graded%20Lab%20Format).java) for example on expectations.
+Graded Lab Criteria. Please view [Lab08-Median.java](https://github.com/frederickpek/cs2040-b01-b05/blob/master/Lab08/Median.java) for example on expectations.
 
 
 
 |Criteria| Description |
 |:---|:---|
-|Modularity|Atleast 1 helper method to abstract the logic/functionality|
-|PrePost Conditions|Pre & post condition for atleast one of your helper methods|
+|Modularity|Add some helper methods to abstract the logic/functionality|
+|PrePost Conditions|Pre & post condition for all your helper methods|
 |Meaningful Comments|Describe code chunks, do not explain each line|
 |Meaningful Identifiers| Do not name variables "n", "arr", give meaningful names|
 |Indentation |Alignment + make sure your tabs are not actually spaces|
@@ -39,7 +39,7 @@ lab09 - https://youtu.be/NFpiZC-2VO0, Retransmission Re-recording - https://yout
 
 lab10 - https://youtu.be/HPEtbvxWAa8
 
-lab11 - 
+lab11 - https://youtu.be/EM6Lm-g0lV4
 
 ## 
 CS2040 AY2021 SEM1
